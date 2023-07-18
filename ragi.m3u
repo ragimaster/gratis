@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:0,-NACIONALES-
+
 #EXTINF:-1,La Red
 http://190.43.92.176:9898/play/a0t5/index.m3u8
 #EXTINF:-1,TV+ HD
@@ -19,6 +22,9 @@ http://179.51.168.13:4000/play/a06y
 http://190.43.92.176:9898/play/a0u9/index.m3u8
 #EXTINF:-1,24 horas 99
 http://179.51.168.13:4000/play/a04n
+
+#EXTINF:0,-DEPORTES-
+
 #EXTINF:-1,TNT SPORTS HD
 http://190.43.92.176:9898/play/a0sx/index.m3u8
 #EXTINF:-1,TNT SPORT HD
@@ -77,6 +83,9 @@ http://190.60.36.103:8000/play/a01i/index.m3u8
 http://190.60.36.103:8000/play/ESPN2HD/index.m3u8
 #EXTINF:-1,ESPNHD
 http://190.60.36.103:8000/play/ESPNHD/index.m3u8
+
+#EXTINF:0,-CINE-
+
 #EXTINF:-1,STAR CHANNEL HD
 http://190.43.92.176:9898/play/a0xb/index.m3u8
 #EXTINF:-1,TNT
@@ -137,8 +146,10 @@ http://190.43.92.176:9898/play/a0xw/index.m3u8
 http://190.43.92.176:9898/play/a0kj/index.m3u8
 #EXTINF:-1,TLC
 http://190.43.92.176:9898/play/a0wt/index.m3u8
-#EXTINF:-1,Golden Edge
-http://190.60.36.103:8000/play/a053/index.m3u8
+
+
+#EXTINF:0,-CULTURA-
+
 #EXTINF:-1,History 2 HD
 http://190.43.92.176:9898/play/a0xq/index.m3u8
 #EXTINF:-1,History Channel HD
