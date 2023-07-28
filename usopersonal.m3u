@@ -5,6 +5,8 @@ http://190.43.92.176:9898/play/a0t5/index.m3u8
 http://179.51.168.13:4000/play/a049
 #EXTINF:-1,TVN
 http://190.43.92.176:9898/play/a0mt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/1920px-TVN_3_2023.svg.png",TVN 3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1,MEGA
 http://190.43.92.176:9898/play/a0nv/index.m3u8
 #EXTINF:-1,CHV
